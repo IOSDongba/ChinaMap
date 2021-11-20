@@ -13,4 +13,3 @@
 
 
 ####有什么问题可以发邮件哦 <dongba_ios@163.com> 
-pull test
